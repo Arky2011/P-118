@@ -1,0 +1,17 @@
+.score
+{
+font-size: 10px;
+margin-left: 7px;
+}
+
+.timer
+{
+    font-size: 10px;
+    float: right;
+    margin-right: 7px;
+}
+
+#draw_Sketch
+{
+    color: red;
+}
